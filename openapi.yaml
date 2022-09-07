@@ -51,3 +51,4 @@ components:
         active:
           type: boolean
           example: true
+
